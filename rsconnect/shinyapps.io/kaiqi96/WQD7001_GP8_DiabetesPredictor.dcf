@@ -1,0 +1,13 @@
+name: WQD7001_GP8_DiabetesPredictor
+title: WQD7001_GP8_DiabetesPredictor
+username: kaiqi96
+account: kaiqi96
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10919313
+bundleId: 8139633
+url: https://kaiqi96.shinyapps.io/WQD7001_GP8_DiabetesPredictor/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GA1 Group 8.pdf|GP8_WQD7001 PRINCIPLES OF DATA SCIENCE -- GA2.pdf|GROUP 8 WQD7001 GA2.pptx|Old_GP8_WQD7001 PRINCIPLES OF DATA SCIENCE -- GA2.pdf
